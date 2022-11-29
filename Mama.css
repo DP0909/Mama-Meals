@@ -1,0 +1,13 @@
+a{
+    font-size: 30px;
+    padding: 10px 40px;
+    border-radius: 200px;
+    <!--background-color: rgb(255, 187, 0);-->
+    color: blue;
+}
+
+body{
+    background-color: rgb(255, 255, 255);
+    background-image: url("/Users/deepu/Desktop/photo.jpg");
+    background-image: linear-gradient (rgba(0,0,0,0.7), rgba(0,0,0,0.7));
+}
